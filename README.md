@@ -1,2 +1,2 @@
-# FFMPEG-NVEnc-Encoding-Presets
-FFMPEG NVEnc Encoding Presets
+# FFMPEG NVEnc Encoding Presets for Command Line
+FFMPEG NVEnc Encoding Presets for command line batch scripts...
